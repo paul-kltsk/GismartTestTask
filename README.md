@@ -22,3 +22,9 @@ Screenshots:
 Changing digits animation - UIView.transition(...options: .transitionCurlUp,...)
 
 No storyboard. Use frame and constains(only for timer) to demonstrate skills, no more, i know that this bad practice)
+
+
+Kylitsky Pavel
+
+pshkltsk@gmail.com
+Viber / WhatsApp / tg: +48 732 626 214
